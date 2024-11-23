@@ -5,26 +5,23 @@
 
 ## 1.1 Che cos’è un'impresa?
 
-Un’impresa è un’organizzazione di beni e servizi che opera con l'obiettivo di ottenere un profitto. Lo fa attraverso lo scambio con il mercato, e impiegando i fattori produttivi che vengono trasformati dall'impresa creando valore attraverso l’aggregazione di risorse.
+Un’impresa è un’organizzazione di beni e servizi che opera con l'obiettivo di ottenere un profitto. Lo fa attraverso lo scambio con il mercato, e impiegando **i fattori produttivi** che vengono trasformati dall'impresa creando valore attraverso **l’aggregazione di risorse**.
 
-<aside>
-💡
 
-> I fattori produttivi sono le risorse per creare beni e servizi:
-> 
-- **Terra**: risorse naturali.
+ I fattori produttivi sono le risorse per creare beni e servizi:
+ - **Terra**: risorse naturali.
 - **Lavoro**: forza lavoro.
 - **Capitale**: macchinari e attrezzature.
 - **Imprenditorialità**: organizzazione e innovazione.
-</aside>
+
 
 ### Aggregazione di risorse
 
 Prendiamo l’esempio di una fabbrica di automobili:
-
 - **materie prime**: come metallo, plastica, gomma, vetro, semi-lavorati...
 - **lavoro**: i dipendenti che progettano e costruiscono l'automobile
 - **capitale**: macchinari per l'assemblaggio, gli edifici posseduti dall’azienda, le linee di produzione…
+Sono tutte risorse che vengono aggregate e trasformate in valore.
 
 ### Specializzazione orizzontale o verticale?
 
@@ -40,16 +37,11 @@ Il termine "sistema impresa" viene usato per sottolineare che un’impresa non �
 
 ### Fini e Obiettivi
 
-L'impresa ha fini importanti che spaziano oltre al semplice profitto: sostenibilità a lungo termine, crescita, innovazione, reputazione e responsabilità sociale. 
+L'impresa ha fini importanti che spaziano oltre al semplice profitto: sostenibilità a lungo termine, crescita, innovazione, reputazione e responsabilità sociale.
 
 Non sempre fini e obiettivi dei partecipanti coincidono: un investimento ricerca e sviluppo potrebbe non essere visto favorevolmente da una parte degli stakeholder perché comporta una riduzione dei profitti a breve termine.
 
-<aside>
-💡
-
-Ricerca e Sviluppo può comunque essere visto come un investimento strategico con l’obiettivo di garantire innovazione e competitività nel lungo periodo.
-
-</aside>
+R&S può comunque essere visto come un investimento strategico con l’obiettivo di garantire innovazione e competitività nel lungo periodo.
 
 ### Struttura
 
@@ -60,40 +52,38 @@ La struttura può essere:
 - **molto formalizzata:** come per una grande multinazionale che ha un manuale per ogni cosa (gestire il personale, i clienti, i fornitori) ed ogni ruolo al suo interno è ben definito.
 - **poco formalizzata:** come in una piccola impresa familiare dove tutti fanno un po’ di tutto e non ci sono istruzioni che stabiliscono ruoli e responsabilità.
 
-Deve potersi evolvere nel tempo al fine di adattarsi al mercato o all’ambiente, e lo può fare per piccoli passi o attraverso grandi cambiamenti.
+La struttura deve potersi evolvere nel tempo al fine di adattarsi al mercato o all’ambiente, e lo può fare per piccoli passi o attraverso grandi cambiamenti.
 
 ### Funzioni
 
-Le funzioni aziendali sono gruppi di attività che hanno caratteristiche simili tra loro e servono per aiutare l’azienda a raggiungere i suoi obiettivi principali.
+Le funzioni aziendali sono gruppi di attività che hanno caratteristiche simili tra loro e *servono per aiutare l’azienda a raggiungere i suoi obiettivi principali*.
 
-Pensiamo a un’azienda che produce scarpe. Le **funzioni** (o aree funzionali) sono come "reparti" che si occupano di un tipo di lavoro specifico. Ad esempio:
+Pensiamo a un’azienda che produce scarpe. Le **funzioni** (o aree funzionali) sono come parti dell'impresa che si occupano di un tipo di lavoro specifico. Ad esempio:
 
 1. **Funzione produzione**: fabbrica le scarpe.
 2. **Funzione marketing**: promuove le scarpe e crea pubblicità.
 3. **Funzione vendite**: si occupa di vendere le scarpe ai negozi o ai clienti.
 4. **Funzione amministrazione**: gestisce i conti e paga i dipendenti.
 
-<aside>
-💡
 
 Se, ad esempio, l’azienda ha come obiettivo aumentare il fatturato del 20%, verranno assegnati coerentemente dei sub-obiettivi alle aree funzionali competenti:
 
 - **Produzione**: aumentare la capacità produttiva per soddisfare una maggiore domanda.
 - **vendite:** migliorare la formazione dei venditori per chiudere più vendite
 - **marketing:** campagna pubblicitaria sul nuovo modello di calzatura
-</aside>
+
 
 ---
 
 ## 1.3 Aziende di produzione o imprese
 
-Le **imprese** (che possono essere grandi, come Fiat o Carrefour, o piccole, come un negozio di alimentari) producono beni o servizi per soddisfare i bisogni delle persone e creare valore economico. Nonostante le differenze nelle dimensioni o nei settori, tutte le imprese hanno alcune caratteristiche comuni:
+Le **imprese** (grandi, come Fiat o Carrefour, o piccole, come un negozio di alimentari) producono beni o servizi per soddisfare i bisogni delle persone e creare valore economico. Nonostante le differenze nelle dimensioni o nei settori, tutte le imprese hanno alcune caratteristiche comuni:
 
-1. **è un organizzazione duratura:** Ogni impresa è strutturata per coordinare risorse (come persone, beni, macchinari) in modo che possa operare nel tempo. Non è un’attività occasionale, ma un sistema stabile e pensato per continuare a funzionare anche in futuro.
+1. **è un organizzazione duratura:** Ogni impresa è strutturata per coordinare risorse in modo che possa operare nel tempo. Non è un’attività occasionale, ma un sistema stabile e pensato per continuare a funzionare anche in futuro.
 2. **le risorse:** Ogni azienda ha bisogno di risorse materiali, come edifici, macchinari, mezzi di trasporto o merci, per svolgere la sua attività. Senza queste risorse, l'impresa non potrebbe produrre beni o fornire servizi.
 3. **le persone:** Ogni persona ha un ruolo preciso per contribuire al successo dell’azienda.
 4. **le operazioni:** Le attività quotidiane che le persone svolgono per portare avanti l’azienda. Ad esempio, in un’azienda automobilistica, queste operazioni includono progettare, produrre e vendere automobili.
-5. **Il fine dell’azienda:** L’obiettivo principale è creare valore o ricchezza.
+5. **Il fine dell’azienda:** ogni impresa ha i suoi obiettivi, il principale è sicuramente creare valore o ricchezza.
 
 ---
 
@@ -101,17 +91,16 @@ Le **imprese** (che possono essere grandi, come Fiat o Carrefour, o piccole, com
 
 Un’impresa ha alcune caratteristiche chiave che definiscono il modo in cui opera e si relaziona con l’ambiente esterno.
 
-### **Sistema complesso**
+### Sistema complesso
 
 L’impresa è composta da molte attività e persone che devono lavorare insieme in modo coordinato per raggiungere obiettivi comuni. 
-
 Questa complessità nasce dal numero di compiti, processi e relazioni interne da gestire (esempio: produzione, marketing, vendite, amministrazione).  
 
 ### Sistema aperto
 
 L’impresa non opera isolata: interagisce costantemente con l’ambiente esterno, da cui dipende per molte delle sue attività.
 
-Questi fattori esterni possono influenzare l’impresa in modi non sempre prevedibili o controllabili:
+Alcuni fattori esterni che possono influenzare l’impresa in modi non sempre prevedibili o controllabili:
 
 - **Concorrenti**: l’azienda deve adattarsi per restare competitiva.
 - **Fornitori/Clienti**: la qualità, il prezzo e la disponibilità di forniture influenzano l’impresa, così come i bisogni e le preferenze dei clienti.
@@ -150,11 +139,10 @@ Le organizzazioni possono essere definite in modi diversi a seconda della prospe
 
 ## 2.3 La metafora dell’elefante
 
-![La metafora dell'elefante ci ricorda che nessuno può capire un’organizzazione da solo. Per gestire sistemi complessi come un'organizzazione, è necessario **ascoltare diverse prospettive**, lavorare in modo coordinato e accettare che alcune parti del sistema possono rimanere difficili da comprendere.](Principali%20teorie%20ed%20elementi%20di%20progettazione%20org%20141e8efd1153807c8388e198b65efc88/9be6b233-c7f0-4113-a742-cf2b4723592e.png)
-
+![[9be6b233-c7f0-4113-a742-cf2b4723592e.png]]
 La metafora dell'elefante ci ricorda che nessuno può capire un’organizzazione da solo. Per gestire sistemi complessi come un'organizzazione, è necessario **ascoltare diverse prospettive**, lavorare in modo coordinato e accettare che alcune parti del sistema possono rimanere difficili da comprendere.
 
-### Perché è rilevante nelle teorie organizzative?
+#### Perché è rilevante nelle teorie organizzative?
 
 1. **Sistema complesso**: Le organizzazioni, come l'elefante, sono sistemi grandi e interconnessi, difficili da osservare in modo completo.
 2. **Diverse prospettive**: Ogni stakeholder o gruppo coinvolto in un’organizzazione (es. manager, dipendenti, clienti) vede l’organizzazione in modo diverso. Capire tutte le prospettive è essenziale per gestirla efficacemente.
@@ -162,10 +150,10 @@ La metafora dell'elefante ci ricorda che nessuno può capire un’organizzazione
 
 ---
 
-## 2.4 L’organizzazione scientifica del lavoro (Taylor)
+## 2.4 L’organizzazione scientifica del lavoro (Taylor, 1911)
 
 
-All’inizio del 1800, il contesto lavorativo era caratterizzato da condizioni molto diverse rispetto ad oggi. I dipendendi venivano assunti a **cottimo** (venivano pagati in base alla quantità di lavoro svolto) ed il ricambio o **turnover del personale** era elevato. I rapporti tra lavoratori e superiori erano spesso segnati da conflitti: il caporeparto era percepito come un tiranno, rendendo l’ambiente di lavoro rigido e alienante.
+All’inizio del 1800, il contesto lavorativo era caratterizzato da condizioni molto diverse rispetto ad oggi. I dipendendi venivano assunti a **cottimo** (venivano pagati in base alla quantità di lavoro svolto) ed il ricambio (o **turnover**) del personale era elevato. I rapporti tra lavoratori e superiori erano spesso segnati da conflitti: il caporeparto era percepito come un tiranno, rendendo l’ambiente di lavoro rigido e alienante.
 
 In questo scenario prende forma la prima idea rivoluzionaria: **la suddivisione del lavoro.** Questa  proponeva di dividere le attività in compiti specifici, assegnandoli a singoli individui. La logica era che, specializzandosi in una sola funzione, i lavoratori avrebbero potuto svolgere i propri compiti in maniera più rapida ed efficiente.
 
@@ -179,7 +167,10 @@ Le basi dell’organizzazione scientifica del lavoro si fondano su alcuni princi
 
 Nel tempo, studiosi come Thompson e McHugh (1990) hanno sottolineato che le organizzazioni sono strumenti intenzionali creati per raggiungere obiettivi specifici. La loro razionalità ed efficienza sono state ribadite da altri autori, come Tillet, Kempner e Wills (1970). Secondo Bolman e Deal (1984), le organizzazioni possono essere progettate in modo sistematico, privilegiando gli aspetti formali e cercando soluzioni universali, come affermato da Koontz (1961). Infine, Duncan ha ribadito l'importanza della scienza come base per migliorare la gestione.
 
-## Principi dell'organizzazione scientifica del lavoro
+
+## 2.5 Principi dell'organizzazione scientifica del lavoro (Taylor)
+
+
 ### Principio 1: Lo sviluppo di una vera scienza
 
 Questo principio si basa sull’idea di trasformare il lavoro manuale in un processo scientificamente analizzato e ottimizzato per raggiungere la massima efficienza. Taylor propone di dividere il lavoro in attività elementari e studiarle attentamente per individuare il modo migliore di svolgerle. Vediamo in dettaglio come funziona:
@@ -197,70 +188,43 @@ Questo principio si basa sull’idea di trasformare il lavoro manuale in un proc
     - Il processo viene continuamente perfezionato, eliminando sprechi di tempo e movimenti inutili.
     - Si punta a creare una procedura standardizzata e replicabile, che diventi il riferimento per tutti.
 
-### **Principio 2 dell’organizzazione scientifica del lavoro: La selezione, l’educazione e lo sviluppo scientifico del lavoratore**
+
+### Principio 2: La selezione, l’educazione e lo sviluppo scientifico del lavoratore
 
 Questo principio si focalizza sulla gestione del lavoratore come individuo, analizzandone le caratteristiche personali e professionali per assegnargli il compito più adatto e migliorarne continuamente le capacità. Vediamo i passaggi chiave:
 
----
-
 1. **Analisi del lavoratore**:  
    - Ogni lavoratore viene valutato nelle sue **caratteristiche personali**, come la personalità e le attitudini, e nelle sue **competenze professionali**, come abilità e prestazioni.  
-   - Questa analisi permette di capire quali siano i punti di forza e i limiti di ciascun individuo.
+   - Questa analisi permette di comprendere quali siano i punti di forza e i limiti di ciascun individuo.
 
-2. **Fit tra lavoratore e compiti assegnati**:  
-   - Sulla base dell'analisi, vengono assegnati compiti che si adattano meglio alle capacità e al potenziale del lavoratore.  
-   - L’obiettivo è ottenere il massimo rendimento dal lavoratore, riducendo il rischio di errori o insoddisfazione.
+Sulla base dell'analisi, vengono assegnati compiti che si adattano meglio alle capacità e al potenziale del lavoratore. L’obiettivo è ottenere il massimo rendimento dal lavoratore, riducendo il rischio di errori o insoddisfazione.
 
-3. **Sviluppo del lavoratore**:  
+2. **Sviluppo del lavoratore**:  
    - Una volta assegnato il compito, il lavoratore viene istruito per eseguirlo nel modo più efficace possibile.  
    - Questo avviene attraverso:
      - **Studio e insegnamento**: il lavoratore apprende metodi e conoscenze specifiche per il compito.  
      - **Allenamento pratico**: si perfezionano le abilità direttamente sul campo.  
 
-4. **Verifica continua**:  
-   - Il progresso del lavoratore viene monitorato costantemente per identificare aree di miglioramento e garantire che il rendimento sia in linea con gli standard richiesti.
 
----
+Il progresso del lavoratore viene monitorato **costantemente** per identificare aree di miglioramento e garantire che il rendimento sia in linea con gli standard richiesti.
 
-### **Obiettivo del principio**
-L’obiettivo è creare un **allineamento perfetto** tra il lavoratore e il compito assegnato, garantendo così il massimo della produttività. Questo approccio non solo aumenta l’efficienza dell’organizzazione, ma contribuisce anche allo sviluppo personale e professionale del lavoratore, migliorando la sua soddisfazione.
 
----
-
-### **In sintesi**
-Il secondo principio dell’organizzazione scientifica del lavoro pone il lavoratore al centro: attraverso un’analisi accurata delle sue capacità e un programma di istruzione e allenamento, si cerca di assegnargli il compito ideale. Questo sistema permette di valorizzare il talento individuale e ottimizzare le prestazioni complessive dell’organizzazione.
-
-### **Principio 3-4: Unire la scienza e il lavoratore selezionato scientificamente – Cooperazione tra management e lavoratori**
+### Principio 3-4: Unire la scienza e il lavoratore selezionato scientificamente – Cooperazione tra management e lavoratori
 
 Questi principi evidenziano un passaggio fondamentale nell’organizzazione scientifica del lavoro: il superamento del vecchio sistema di management, basato su un lavoratore che svolgeva autonomamente progettazione, controllo ed esecuzione del lavoro, verso un modello in cui il management e i lavoratori collaborano in ruoli distinti, ma interconnessi.
 
----
+**Vecchio sistema di management:**
+- Il **lavoratore** era responsabile non solo dell’esecuzione, ma anche della progettazione e del controllo del lavoro, con poca guida da parte del **management**.
+- Questo sistema era inefficiente e lasciava spazio a errori.
 
-### **Unire la scienza e il lavoratore selezionato scientificamente**
+**Organizzazione scientifica del lavoro:**
+- il **management** si occupa di:
+    - Progettare i compiti in modo ottimale.
+     - Coordinare e controllare il processo.
+- Il **lavoratore**, invece, è responsabile solo dell’esecuzione del compito assegnato, con la possibilità di fornire feedback per ulteriori miglioramenti.
 
-- **Significato**:  
-    Il lavoratore viene scelto sulla base di un’analisi scientifica delle sue abilità e viene formato per svolgere un compito specifico nel modo ottimale.
-    
-    - Il management utilizza i dati e l'analisi per organizzare e dividere il lavoro in attività ben definite.
-    - Il lavoratore, con la sua esperienza pratica, può fornire **suggerimenti** per migliorare i metodi operativi, creando un ciclo continuo di ottimizzazione.
-- **Obiettivo**:  
-    Integrare le capacità del lavoratore con un sistema di lavoro scientificamente progettato, migliorando così efficienza e produttività.
-    
-
----
-
-### **Cooperazione tra management e lavoratori**
-
-- **Significato**:  
-    Nel vecchio sistema di management, il lavoratore era responsabile non solo dell’esecuzione, ma anche della progettazione e del controllo del lavoro, con poca guida da parte del management. Questo sistema era inefficiente e lasciava spazio a errori.
-    
-    - Con l’organizzazione scientifica del lavoro, invece, il **management** si occupa di:
-        - **Progettare** i compiti in modo ottimale.
-        - **Coordinare** e controllare il processo.
-    - Il **lavoratore**, invece, è responsabile solo dell’esecuzione del compito assegnato, con la possibilità di fornire feedback per ulteriori miglioramenti.
 - **Vantaggi**:
-    
-    - Una chiara divisione delle responsabilità tra management e lavoratori.
+	- Una chiara divisione delle responsabilità tra management e lavoratori.
     - Maggiore collaborazione e fiducia reciproca.
     - Un sistema razionale ed efficiente in cui gli aspetti formali (procedure standardizzate, controllo) hanno la priorità assoluta.
 
@@ -268,25 +232,12 @@ Questi principi evidenziano un passaggio fondamentale nell’organizzazione scie
 
 La distinzione tra **Organizzazione scientifica del lavoro** (Taylor) e **Scienza dell’amministrazione** (Fayol) rappresenta due approcci diversi ma complementari alla gestione delle organizzazioni. Vediamo cosa significano i concetti chiave riportati.
 
----
-
-### **Organizzazione scientifica del lavoro (Taylor, 1911)**  
-Taylor sviluppò un approccio **bottom-up**, concentrandosi sul livello operativo, ossia sui compiti specifici assegnati ai lavoratori.  
-- **Focus principale**:  
-  - La massima efficienza nel lavoro esecutivo.  
-  - L’ottimizzazione delle attività svolte dai dipendenti.  
-  - Il ruolo del caporeparto è centrale: coordina e supervisiona i lavoratori sulla base di metodi scientifici.  
-  - I manager forniscono strumenti e supporto per standardizzare i processi, ma l'attenzione è soprattutto sul miglioramento delle attività manuali.
-
-- **Approccio**:  
-  - Parte dal basso ("bottom-up"): si analizzano i compiti esecutivi per poi costruire il sistema gestionale.  
-  - È basato sull’idea di razionalizzare il lavoro del singolo, con il management come guida e supporto.
 
 ---
 
-### **Scienza dell’amministrazione (Fayol, 1931)**  
+## 2.5 Scienza dell’amministrazione (Fayol, 1931)  
 Henri Fayol, invece, sviluppò un approccio **top-down**, focalizzandosi sul livello strategico e sull’intera struttura organizzativa.  
-- **Focus principale**:  
+- **Focus principale**:
   - La gestione dell’organizzazione a livello manageriale.  
   - La pianificazione, il controllo e la supervisione dell’intera impresa.  
   - Il manager non si limita a supervisionare il lavoro, ma stabilisce obiettivi, strategie e linee guida.  
@@ -296,15 +247,15 @@ Henri Fayol, invece, sviluppò un approccio **top-down**, focalizzandosi sul liv
   - Parte dall’alto ("top-down"): i principi amministrativi vengono definiti dai vertici e poi trasmessi agli altri livelli dell’organizzazione.  
   - È basato sull’organizzazione globale dell’impresa, considerando ruoli, gerarchie e processi.
 
----
 
-### **Differenza chiave: Bottom-Up vs Top-Down**
-- L’approccio di Taylor (bottom-up) parte dai compiti specifici e cerca di migliorare il lavoro dei singoli, per poi costruire una struttura organizzativa attorno a questo.  
+### Differenza chiave: Bottom-Up vs Top-Down
+
+- L’approccio di Taylor (bottom-up) parte dai compiti specifici e cerca di migliorare il lavoro dei singoli, per poi costruire una struttura organizzativa attorno a questo. 
+
 - L’approccio di Fayol (top-down) parte dalla visione strategica dei manager e definisce una struttura organizzativa globale che guida il lavoro a tutti i livelli.
 
----
 
-### **Integrazione tra i due approcci**
+### Integrazione tra i due approcci
 Entrambi gli approcci si basano su un **approccio scientifico**, ma con focalizzazioni diverse:
 1. **Taylor**: mira a migliorare le prestazioni operative tramite la standardizzazione e la specializzazione.  
 2. **Fayol**: cerca di organizzare e gestire l’azienda come un tutto, dando priorità ai ruoli manageriali e alle strategie di gestione.
@@ -316,13 +267,6 @@ Le teorie dell’**organizzazione scientifica del lavoro** (Taylor) e della **sc
 
 ---
 
-### **Organizzazione scientifica del lavoro (Taylor)**  
-Taylor si concentra sui **livelli più bassi** dell’organizzazione, in particolare sui processi di produzione e sulle attività operative dei lavoratori.  
-- **Obiettivo**: Trovare la "one best way", ossia il metodo migliore per svolgere un compito specifico.  
-- **Metodo**: Analisi dettagliata delle attività lavorative, cronometraggio e standardizzazione dei compiti per aumentare la produttività.  
-- **Applicazione**: La scienza viene usata per studiare e ottimizzare il lavoro manuale, garantendo efficienza e riducendo sprechi.
-
----
 
 ### **Scienza dell’amministrazione (Fayol)**  
 Fayol si focalizza sui **livelli più alti** dell’organizzazione, analizzando le funzioni manageriali e i processi decisionali.  
