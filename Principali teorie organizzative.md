@@ -109,7 +109,7 @@ Alcuni fattori esterni che possono influenzare l’impresa in modi non sempre pr
 
 ---
 
-## 2. Le principali teorie organizzative
+# 2. Le principali teorie organizzative
 
 Le teorie organizzative si occupano di studiare, spiegare e progettare modelli per coordinare attività e risorse all'interno delle organizzazioni, al fine di raggiungere i loro obiettivi in modo più efficace ed efficiente.
 
@@ -127,7 +127,7 @@ Gli attori agiscono all'interno di questo contesto e collaborano tramite relazio
 
 ---
 
-## 2.2 Organizzazione: tipo di sistema
+### 2.2 Organizzazione: tipo di sistema
 
 Le organizzazioni possono essere definite in modi diversi a seconda della prospettiva adottata. Ecco i tre principali tipi di sistema:
 
