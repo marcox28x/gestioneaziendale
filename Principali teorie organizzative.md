@@ -533,8 +533,29 @@ La **burocrazia**, con le sue regole formali e la separazione tra personale e or
 
 ---
 
+## Esperimenti di Hawthorne (Mayo, 1932)
+Gli esperimenti condotti da Mayo e i suoi collaboratori sono sicuramente tra i più famosi nella storia della gestione e della psicologia organizzativa. Questi hanno avuto un impatto significativo sullo sviluppo delle teorie di comportamento organizzativo e sulle relazioni umane.
 
+### Esperimento sull'illuminazione
+Gli studi cominciarono investigando come livelli differenti di illuminazione potessero influenzare la produttività dei lavoratori:
+- I ricercatori si aspettavano che una cattiva illuminazione influenzasse negativamente la produttività e viceversa.
+- Inaspettatamente durante lo studio la produttività era aumentata indipendentemente da come fossero state regolate le luci.
+- I ricercatori arrivarono alla conclusione che la presenza di osservatori influenzasse il comportamento dei lavoratori.
+- Questo fenomeno divenne noto come Hawthorne Effect.
 
+### Esperimento sulle operaie addette al montaggio di relays
+In questo esperimento, i ricercatori isolaono sei lavoratrici in una stanza isolata dal resto della fabbrica:
+- L'obiettivo era comprendere come cambiare le condizioni lavorative influenzasse la produttività.
+- I ricercatori, sistematicamente, aggiornavano gli orari di lavoro e delle pause, offrivano randomicamente pasti gratuiti, e variavano gli stipendi.
+- Dopo averne osservato gli effetti, i ricercatori riportavano gradualmente le condizioni allo stato iniziale.
+I risultati furono un consistente aumento della produttività da parte delle lavoratrici, anche dopo aver riportato tutto come prima. Le cause sono state attribuite a fattori sociali e psicologici:
+- Le attenzioni dei ricercatori davano un senso di valore alle lavoratrici.
+- Il lavoro in piccoli gruppi dava un senso di amicizia e teamwork.
+- La supervisione era percepita come di supporto e incoraggiante.
+
+I risultati portarono ad una riforma nella scienza delle organizzazioni, enfatizzando l'elemento umano. I lavoratori non sono motivati unicamente dai premi in denaro o dalle condizioni di lavoro, ma i fattori sociali, psicologici ed emotivi hanno un ruolo critico nell'influenzare la produttività e la soddisfazione del lavoratore.
+Il ruolo dell'intelligenza emotiva nel manager non deve essere sottovalutata e il bilanciamento degli elementi formali (regole, incentivi) e informali (relazioni) è essenziale per un amministrazione efficace.
+L'esperimento di Hawthorne ha gettato le basi per la nascita della **scuola delle relazioni umane**.
 
 La teoria di Chester I. Barnard, sviluppata nel suo lavoro **"The Functions of the Executive" (1938)**, pone al centro il concetto di organizzazione come un sistema **cooperativo**. Attraverso la metafora del masso sulla strada, Barnard illustra come l’efficacia organizzativa nasca dalla capacità di coordinare sforzi collettivi per superare ostacoli che sarebbero insormontabili individualmente.
 
