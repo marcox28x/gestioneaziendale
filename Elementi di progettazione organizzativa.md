@@ -24,9 +24,9 @@ Un meccanismo efficace deve considerare i seguenti elementi:
 
 L'obiettivo finale non è sostituire completamente la manodopera con le macchine, ma piuttosto creare un ecosistema in cui automazione e lavoro umano si rafforzino a vicenda, massimizzando efficienza e innovazione.
 
+# Catena del valore
 
-
-La catena del valore, introdotta da Michael Porter, rappresenta un potente strumento per comprendere come un'azienda crea valore per i suoi clienti attraverso una serie di attività interconnesse. All'interno di questa struttura, la dimensione delle risorse umane e la progettazione della struttura organizzativa giocano un ruolo cruciale, fungendo da collante tra le attività e garantendo che il processo sia efficiente e orientato alla strategia.
+La **catena del valore**, introdotta da Michael Porter, rappresenta un potente strumento per comprendere come un'azienda crea valore per i suoi clienti attraverso una serie di attività interconnesse. All'interno di questa struttura, la dimensione delle risorse umane e la progettazione della struttura organizzativa giocano un ruolo cruciale, fungendo da collante tra le attività e garantendo che il processo sia efficiente e orientato alla strategia.
 
 La **catena del valore** disaggrega l'azienda nelle sue attività strategiche principali, raggruppate in attività primarie (progettazione, produzione, vendita, consegna e assistenza) e di supporto (gestione delle risorse umane, infrastrutture, approvvigionamenti e sviluppo tecnologico). Queste attività non sono isolate: si influenzano reciprocamente, contribuendo al vantaggio competitivo e alla creazione di ricchezza.
 
@@ -201,7 +201,7 @@ Una progettazione organizzativa efficace richiede:
 
 
 
-Struttura funzionale
+# Struttura funzionale
 
 La **struttura organizzativa classica** o **gerarchico-funzionale** è un modello organizzativo tradizionale basato sui principi della divisione del lavoro e della specializzazione. Si concentra sull’efficacia e sull’efficienza attraverso la suddivisione delle attività in aree funzionali e il coordinamento a livello gerarchico.
 
