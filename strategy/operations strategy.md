@@ -99,7 +99,7 @@ Da queste dipenderà la strategia adottata.
 ## l'impatto delle priorità competitive
 
 Le competitive priorities rappresentano le aree su cui l'azienda investe risorse e costruisce competenze, eccellere in queste priorità comporta vantaggi competitivi. I vantaggi competitivi sono anche differenziazione di prodotti e di servizi, e prezzi attrattivi in mercati sensibili al prezzo.
-Tutto questo ci porta ai risultati economici ad esempio il [turnover](Redditività_e_Turnover) e la [redditività](Redditività_e_Turnover).
+Tutto questo ci porta ai risultati economici ad esempio il [turnover](Redditività%20e%20Turnover.md) e la [redditività](Redditività%20e%20Turnover.md).
 
 ### costo
 a parità delle altre condizioni ogni euro o dollaro risparmiato nelle operazioni è un ulteriore euro o dollaro aggiunto ai profitti.
@@ -148,7 +148,12 @@ caratteristiche della variazione
 ### Il concetto di trade-off
 ### Trade off concept (skinner)
 Uno dei punti chiave che skinner sottolinea sono i trade-off, cioè i compromessi inevitabili, che esistono nella progettazione dei sistemi produttivi. Questi trade-off nascono dal fatto che ogni tecnologia o sistema basato sul lavoro umano ha limiti intrinseci. Per esempio:
-- Un sistema produttivo potrebbe essere ottimizzato per massimizzare l'efficenza, ma ciò potrebbe compromettere la flessibilità nell'adattarsi a cambiamenti del mercato.
-- Una linea di produzione potrebbe essere progettata per produrre prodotti di alta qualità, ma ciò potrebbe aumentari i costi o rallentare la velocità di produzione
+- Un sistema produttivo potrebbe essere ottimizzato per massimizzare l'efficienza, ma ciò potrebbe compromettere la flessibilità nell'adattarsi a cambiamenti del mercato.
+- Una linea di produzione potrebbe essere progettata per produrre prodotti di alta qualità, ma ciò potrebbe aumentarli i costi o rallentare la velocità di produzione
 
 praticamente il concetto di trade-off ci dice 
+
+
+
+
+

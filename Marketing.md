@@ -25,14 +25,14 @@ l'analisi di questi tre è necessaria per adottare una strategia di marketing.
 ## La strategia di marketing orientata al cliente
 Cercare un sottoinsieme di clienti da poter soddisfare con il nostro prodotto.
 Questo processo si chiama segmentazione del mercato.
-Una volta suddiviso, dobbiamo capire quale targhet vogliamo colpire.
+Una volta suddiviso, dobbiamo capire quale target vogliamo colpire.
 - differenziazione
 - posizionamento
 Ci sono 4 tipologie di segmentazione di mercato:
 - **segmentazione geografica**: divisione del mercato in unità geografiche quali nazioni, regioni, province, città, o quartieri.
 - **segmentazione demografica**: segmentazione per età e stadio del ciclo di vita. in base al sesso o in base al reddito.
 - **psicografica**: divisione del mercato in base alla classe sociale, lo stile di vita o i tratti della personalità del consumatore.
-- **comporamentale**: come ad esempio la segmentazione per tipo di utilizzatori come non utilizzatori ex utilizzatori potenziali utilizzatori nuovi utilizzatori utilizzatori regolari. Segmentazione per intensità d'uso.
+- **comportamentale**: come ad esempio la segmentazione per tipo di utilizzatori come non utilizzatori ex utilizzatori potenziali utilizzatori nuovi utilizzatori utilizzatori regolari. Segmentazione per intensità d'uso.
 Per una segmentazione efficace è importante la misurabilità, accessibilità, rilevanza, distinguibilità, praticabilità.
 Tipo se devo vendere un profumo che mi frega se il cliente è sposato?
 
