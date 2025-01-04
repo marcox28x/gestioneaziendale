@@ -37,16 +37,16 @@ Le scorte:
 
 Pertanto, è opportuno prevenire ad un dimensionamento delle scorte che rappresenti il giusto equilibrio tra il livello di servizio garantito e i costi sostenuti, secondo un classico trade-off.
 
-# obiettivi della gestione dei materiali
+# Obiettivi della gestione dei materiali
 ---
 - **efficacia**: garantire la disponibilità dei materiali ai diversi stadi del processo produttivo e distributivo, misurata come livello di servizio erogato in termini di quantità, tempi e mix.
 - efficienza finanziaria: misurata dall'investimento in mezzi finanziari.
 - efficienza economica: misurata dall'entità di risorse connesse con il governo delle scorte.
 
-# Due Domande Chiave Nella Gestione Materiali
+# Due domande chiave nella gestione materiali
 ---
-- Quanto ordinare: di un determinato materiale, considerando gli obiettivi di costo e livello di servizio.
-- Quando effettuare tale ordine: per assicurare la puntuale alimentazione dei processi produttivi e distriutivi ed eludere ogni rischio di insoddisfazione della domanda interna ed esterna.
+- **Quanto ordinare**: di un determinato materiale, considerando gli obiettivi di costo e livello di servizio.
+- **Quando effettuare tale ordine**: per assicurare la puntuale alimentazione dei processi produttivi e distriutivi ed eludere ogni rischio di insoddisfazione della domanda interna ed esterna.
 
 # Complessità della gestione dei materiali
 ---
@@ -65,7 +65,7 @@ La complessità della gestione dei materiali è in funzione della presenza o men
 
 - flessibilità della manodopera (polivalenza e polifunzionalità, flessibilità agli orari, orientamento ai processi).
 
-## Classificazione Delle Scorte
+# Classificazione Delle Scorte
 ---
 Materiali di acquisto stoccati a magazzino distinti in:
 - Materie Prime: oggetto di almento una trasformazione interna
@@ -76,7 +76,7 @@ Materiali di acquisto stoccati a magazzino distinti in:
 - **Prodotti Finiti**: materiali ottenuti in uscita dal processo produttivo stoccati nel magazzino centrale, o presenti nei magazzini periferii della rete distributiva multilivello o nei punti vendita
 - **Parti di ricambio o spare parts**: materiali di acquisto o produzione stoccati a magazzino centrale, o presenti nei magazzini periferici della rete distributiva multilivello o nei punti vendita.
 
-## Tipologie Di Materiali nello schema di flusso produttivo e logistico
+# Tipologie Di Materiali nello schema di flusso produttivo e logistico
 ---
 Le materie prime acquistate dai fornitori sono pronte a passare alla fase di fabbricazione dove vengono trasformate in componenti. Le componenti passano poi per una fase di preassemblaggio per diventare sotto-assiemi, e, successivamente, ad una di assemblaggio finale. I prodotti finiti sono quindi pronti ad essere distribuiti nei magazzini centrali o periferici dove verrano in fine consegnati al cliente.
 
@@ -92,14 +92,16 @@ In particolare aiuta a bilanciare due tipi di costi:
 ## Costi di emissione
 ---
 ### materiali d'acquisto
-$$\text{costo di ordinazione} = \text{costi amministrativi} $$
+##### $$
+\text{costo di ordinazione} = \text{costi amministrativi}
+$$
 
 ### materiali di produzione interna
-$$ \text{costo di ordinazione} = \text{costi di preparazione} + \text{costi di attrezzaggio} $$
+##### $$ \text{costo di ordinazione} = \text{costi di preparazione} + \text{costi di attrezzaggio} $$
 
 ## costi di mantenimento (o di giacenza)
 ---
-$$ \text{costi dei mezzi finanziari immobilizzati nelle scorte} $$
+##### $$ \text{costi dei mezzi finanziari immobilizzati nelle scorte} $$
 
 ## Ipotesi
 ---
@@ -147,29 +149,82 @@ $$
 - **Scorte cicliche (Cycle Stock)**:
 	- Si hanno quando gli ordini sono più grandi di quanto realmente necessario a soddisfare le richieste immediate dei clienti
 	- Generalmente sono la conseguenza dei vantaggi delle economie di scala.
-- Scorte di disaccoppiamento (Decoupling stock):
+- **Scorte di disaccoppiamento (Decoupling stock):**
 	- Per rendere indipendenti i diversi stadi della catena produttiva e logistica. 
 	- Alcune cause sono:
 		- Per impiegare differenti criteri di aggregazione degli ordini (stesso modello di colore diverso).
 		- Diversa velocità di funzionamento di due fasi operative consecutive.
 		- Bottleneck.
-- Scorte di transito (Transit stock):
+- **Scorte di transito (Transit stock):**
 	- Le varie fasi del processo produttivo e distributivo non sono fisicamente adiacenti
 	- Possono essere ridotte:
 		- migliorando i collegamenti tra le varie fasi
 		- modificando le caratteristiche della struttura del sistema produttivo - distributivo.
-- Scorte di sicurezza (Safety stock):
+- **Scorte di sicurezza (Safety stock):**
 	- Sono indotte dalla necessità di fronteggiare l'incertezza della domanda a valle o dei rifornimenti a monte.
-- Scorte Stagionali (Seasonal stock):
+- **Scorte Stagionali (Seasonal stock):**
 	- Riguardano i prodotti che rappresentano una domanda fortemente stagionale (panettone, pandoro, giacche invernali...)
-- Scorte speculative (Speculation stock):
+- **Scorte speculative (Speculation stock):**
 	- Sono legate ad aspettative di aumento dei costi di approvvigionamento dei materiali.
 	- Si cerca in pratica di minimizzare gli effetti negativi dovuti alle oscillazioni dei prezzi.
 
-# Costi Delle Scorte Di Materiali
+# Costi delle scorte di materiali
 ---
 Si dividono in:
-1) Costi di ordinazione o emissione dell'ordine
+1) Costi di ordinazione o emissione dell'ordine:
+	- per materiali  di acquisto:
+$$
+\text{costi di ordinazione} = \text{costi amministrativi} + \text{costi di trasporto}
+$$
+	- per materiali di produzione:
+$$
+\text{costi di ordinazione} = \text{costi di preparazione} + \text{costi di attrezzaggio}
+$$
 2) Costi di mantenimento
 3) Costi di stock-out
 
+
+# Livello di servizio
+---
+Il livello di servizio è un valore che descrive sinteticamente la capacità dell'organizzazione di soddisfare le richieste dei clienti nelle quantità, nei tempi e nel mix desiderati.
+
+Poiché un livello di servizio pari a $1$ ha generalmente costi improponibili, l'obiettivo è quello di garantire un livello di servizio adeguato ai costi più bassi possibili.
+
+Esistono numerosi metodi pe misurare il livello di servizio $LS$.
+quantità:
+$$LS_\text{quantità} = \frac{Q_\text{consegnate}}{Q_\text{ordinate}} $$
+
+puntualità
+$$LS_\text{puntualità} = \frac{t_\text{ConsegnaEffettiva}}{t_\text{ConsegnaPromesso}} $$
+
+ordini:
+$$LS_\text{ordini} = \frac{N_\text{OrdiniEvasi}}{N_\text{OrdiniRicevuti}} $$
+
+rapidità:
+$$LS_\text{rapidità} = \frac{t_\text{consegna}}{t_\text{ConsegnaMigliorConcorrente}} $$
+
+mix:
+$$LS_\text{mix} = \frac{N_\text{RigheOrdineEvase}}{N_\text{RigheOrdineRicevute}} = \text{FillRate}$$
+
+
+# Analisi di Pareto
+---
+La maggior parte degli effetti è dovuta ad un numero ristretto di cause.
+
+Sfruttando queste osservazioni è possibile analizzare un insieme di dati in modo da determinare le poche variabili che influenzano in modo significativo i risultati finali di un determinato fenomeno.
+
+Questa analisi viene spesso utilizzata per:
+- Una classificazione economica di scorte, fornitori o clienti.
+- Interventi di manutenzione preventiva
+- La ricerca di attività di riduzione dei tempi di set-up
+
+Sotto il profilo economico le valutazioni possono essere mirate alla conoscenza di:
+- quali sono i prodotti più redditizi di una gamma produttiva.
+- quali sono i prodotti che comportano oneri maggiori per il loro mantenimento a scorta.
+- qual'è l'importanza di diversi clienti o fornitori, ecc..
+
+In merito ai materiali messi a scorta, l'analisi ABC consente una suddivisione degli articoli di magazzio in tre categorie, in modo da permettere di valutare in modo selezionato il loro impatto, definendo quali sono gli articoli critici su cui focalizzare l'attenzione.
+
+L'analisi ABC può riguardare l'insieme di tutti gli articoli in magazzino oppure un loro sottoinsieme; infine può essere semplice o incrociata, intendendo che la suddivisione del gruppo di articoli sotto osservazione porta a individuare rispettivamente tre o nove classi.
+
+## ABC semplice
