@@ -1,0 +1,3 @@
+
+La teoria di Hill rappresenta un modello fondamentale per comprendere come le aziende possono posizionarsi strategicamente nei mercati. Secondo Hill non tutte le priorità competitive devono essere perseguite con la stessa intensità: alcune hanno un ruolo decisivo per il successo, mentre altre sono semplicemente indispensabili per entrare o restare nel mercato.
+Appunto i qualifiers sono requisiti minimi necessari per competere nel settore. Gli order winning sono i fattori che distinguono un'azienda dalla concorrenza.

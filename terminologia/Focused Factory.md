@@ -1,5 +1,4 @@
 
-# Focused Factory
 
 Una fabbrica che si concentra su un mix ristretto di prodotti rivolti a un particolare segmento di mercato riesce a ottenere migliori risultati rispetto a una fabbrica tradizionale che cerca di coprire una gamma più ampia di prodotti e mercati.
 
@@ -12,6 +11,3 @@ principi di focused factory:
 - **Una fabbrica non può eccellere in tutto.** 
 - **La semplicità e la ripetizione generano competenza.** Processi produttivi chiari, snelli e ben definiti riducono la complessità e la possibilità di errore. Far continuamente le stesse operazioni consente di migliorare nel tempo, secondo un principio di curva di apprendimento.
 
-# Order Winning e Qualifiers
-La teoria di Hill rappresenta un modello fondamentale per comprendere come le aziende possono posizionarsi strategicamente nei mercati. Secondo Hill non tutte le priorità competitive devono essere perseguite con la stessa intensità: alcune hanno un ruolo decisivo per il successo, mentre altre sono semplicemente indispensabili per entrare o restare nel mercato.
-Appunto i qualifiers sono requisiti minimi necessari per competere nel settore. Gli order winning sono i fattori che distinguono un'azienda dalla concorrenza.

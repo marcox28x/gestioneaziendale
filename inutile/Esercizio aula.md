@@ -24,26 +24,4 @@ Di fronte allo scenario descritto, occorre elaborare una strategia complessiva c
 
 **In sintesi**, la strategia prevede di dare priorità al prodotto X, aumentando efficienza e certificazioni, di ripensare o riorganizzare il ruolo di Y nel portafoglio, di migliorare la competitività attraverso innovazione e compliance normativa, e di rinforzare il clima interno e le politiche retributive/di welfare per trattenere e motivare il personale. Questo approccio integrato dovrebbe consentire di rafforzare il posizionamento di mercato, ottimizzare i costi, soddisfare i requisiti normativi e migliorare la soddisfazione del personale.
 
-impresa rete post fordismo
-impresa integrata verticalmente fordismo
 
-fabbrica centralizzata fordismo
-impresa integrata verticalmente fordismo
-impresa rete post fordismo sistema produttio
-vodistiìribuito su bas locale e globale
-cliente come ispiratore di prodotto
-cliente come utilizzatore di prodotto
-mercato verticale organizzato
-post foedismo prodotto personalizzato 
-brain intensie
-fordismo labour o capital intesnive
-post fordismo integrazione coordinamento lavoro
-fordismo prescrittività
-arricchimento e allargamento delle mansioni
-parcellizzazione spinta
-integrazione
-prescrittività
-automazione frugale
-automazione spinta
-automazione rigida
-automazione flessibile

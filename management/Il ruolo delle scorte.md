@@ -228,3 +228,4 @@ In merito ai materiali messi a scorta, l'analisi ABC consente una suddivisione d
 L'analisi ABC può riguardare l'insieme di tutti gli articoli in magazzino oppure un loro sottoinsieme; infine può essere semplice o incrociata, intendendo che la suddivisione del gruppo di articoli sotto osservazione porta a individuare rispettivamente tre o nove classi.
 
 ## ABC semplice
+
